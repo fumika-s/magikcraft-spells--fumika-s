@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
 function fireball() {
-magik.infierno(1000);
+magik.doNTimes(function(){magik.infierno()},3000,300);
 }
