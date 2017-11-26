@@ -1,5 +1,8 @@
 const magik = magikcraft.io;
 
 function feedme() {
-	magik.satio(64);
+	magik.doNTimes(function(){
+        magik.satio();
+    },64,0);
 }
+
