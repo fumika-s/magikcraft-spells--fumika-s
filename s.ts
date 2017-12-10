@@ -1,6 +1,9 @@
 const magik = magikcraft.io;
 
 function s() {
-    magik.doNTimes(5);
-	magik.shakti();
+    magik.doNTimes(function(){
+        magik.shakti();
+    },5,1000
+    );
+	
 }
