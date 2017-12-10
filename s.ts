@@ -3,7 +3,7 @@ const magik = magikcraft.io;
 function s() {
     magik.doNTimes(function(){
         magik.shakti();
-    },5,500
+    },5,100
     );
 	
 }
