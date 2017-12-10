@@ -133,8 +133,4 @@ function s() {
     magik.shakti();
     magik.shakti();
     magik.shakti();
-    
-    
-
-    
 }
