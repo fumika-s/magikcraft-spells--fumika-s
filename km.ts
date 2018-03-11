@@ -7,4 +7,5 @@ function km() {
      magik.doNTimes(function(){
         magik.infierno();
     },10,1000);
+    magik.celeritate();
 }
