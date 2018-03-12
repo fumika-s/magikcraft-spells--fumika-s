@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function km() {
+function ww() {
  magik.doNTimes(function(){
      magik.shakti();
     },10,1000);
